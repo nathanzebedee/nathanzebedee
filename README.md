@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Nathan, and I am a cybersecurity student from Baylor University's Honors College. I really enjoy learning about web development, and I am currently pursuing a full stack (MERN) certification with MIT. If you would like, feel free to reach out to me on twitter at twitter.com/itsmezebedee!
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanzebedee&theme=dark&show_icons=true)
+
+
+
+
 <!--
 **nathanzebedee/nathanzebedee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

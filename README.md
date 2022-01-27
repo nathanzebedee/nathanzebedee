@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nathan Galindo</h1>
 <h3 align="center">A passionate full stack developer and security researcher from Texas</h3>
 
-<p align="left"> <a href="https://twitter.com/nathanzebedee" target="blank"><img src="https://img.shields.io/twitter/follow/nathanzebedee?logo=twitter&style=for-the-badge" alt="nathanzebedee" /></a> </p>
+<p align="left"> <a href="https://twitter.com/itsmezebedee" target="blank"><img src="https://img.shields.io/twitter/follow/itsmezebedee?logo=twitter&style=for-the-badge" alt="itsmezebedee" /></a> </p>
 
 - 🌱 I’m currently learning **MongoDB, Express, React, Node**
 

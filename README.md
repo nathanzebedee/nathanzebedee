@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Nathan Galindo</h1>
 <h3 align="center">A passionate full stack developer and security researcher from Texas</h3>
 
@@ -16,10 +14,6 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wqdqQjSORIVM-pe_kIFa6GL7PY5XmmGs/view?usp=sharing](https://drive.google.com/file/d/1wqdqQjSORIVM-pe_kIFa6GL7PY5XmmGs/view?usp=sharing)
 
 - ⚡ Fun fact **I am the real slim shady**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

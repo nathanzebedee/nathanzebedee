@@ -34,7 +34,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanzebedee&show_icons=true&locale=en&layout=compact" alt="nathanzebedee" /></p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanzebedee&theme=dark&show_icons=true)
 
 
 

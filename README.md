@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/itsmezebedee" target="blank"><img src="https://img.shields.io/twitter/follow/itsmezebedee?logo=twitter&style=for-the-badge" alt="itsmezebedee" /></a> </p>
 
-- 🌱 I’m currently learning **MongoDB, Express, React, Node**
+- 🌱 I’m a fullstack developer with experience in **MongoDB, Express, React, Node**
 
 - 👨‍💻 All of my projects are available at [github.com/nathanzebedee](github.com/nathanzebedee)
 

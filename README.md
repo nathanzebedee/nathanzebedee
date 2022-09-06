@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nathan Galindo</h1>
-<h3 align="center">A passionate full stack developer and security researcher from Texas</h3>
+<h3 align="center">A passionate full stack web2 and web3 developer</h3>
 
 <p align="left"> <a href="https://twitter.com/itsmezebedee" target="blank"><img src="https://img.shields.io/twitter/follow/itsmezebedee?logo=twitter&style=for-the-badge" alt="itsmezebedee" /></a> </p>
 
-- 🌱 I’m a fullstack developer with experience in **MongoDB, Express, React, Node**
+- 🌱 I’m a fullstack web2 developer with experience in **MongoDB, Express, React, Node**
+
+- I'm a fullstack web3 developer with experience in **NextJS, TailwindCSS, Rust, Solana tech stack**
 
 - 👨‍💻 All of my projects are available at [github.com/nathanzebedee](github.com/nathanzebedee)
-
-- 📝 I regularly write articles on [medium.com/@nathan.zebedee](medium.com/@nathan.zebedee)
 
 - 📫 How to reach me **nathan.zebedee@gmail.com**
 

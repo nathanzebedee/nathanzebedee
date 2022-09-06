@@ -5,7 +5,7 @@
 
 - 🌱 I’m a fullstack web2 developer with experience in **MongoDB, Express, React, Node**
 
-- I'm a fullstack web3 developer with experience in **NextJS, TailwindCSS, Rust, Solana tech stack**
+- 🌞 I'm a fullstack web3 developer with experience in **NextJS, TailwindCSS, Rust, Solana tech stack**
 
 - 👨‍💻 All of my projects are available at [github.com/nathanzebedee](github.com/nathanzebedee)
 

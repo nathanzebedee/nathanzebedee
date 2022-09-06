@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/itsmezebedee" target="blank"><img src="https://img.shields.io/twitter/follow/itsmezebedee?logo=twitter&style=for-the-badge" alt="itsmezebedee" /></a> </p>
 
-- 🌱 I’m a fullstack web2 developer with experience in **MongoDB, Express, React, Node**
+- 🌱 I’m a fullstack web2 developer with experience in **MongoDB, Express, NestJS, React, Node**
 
 - 🌞 I'm a fullstack web3 developer with experience in **NextJS, TailwindCSS, Rust, Solana tech stack**
 
